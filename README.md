@@ -1,4 +1,4 @@
-# SQLDEVELOPER LINUX INSTALL
+# ANDROID STUDIO LINUX INSTALL
 
 To install, execute the following command:
 
